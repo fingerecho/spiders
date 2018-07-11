@@ -63,7 +63,7 @@ MY_USER_AGENT = [
 """
 ####################################################################################
 
-
+HTTPERROR_ALLOWED_CODES = [301]
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
 
@@ -146,8 +146,8 @@ SCHEDULER_ORDER = 'BFO'
 
 
 MY_DOWNLOADS_FILE = "D:\\\scrapy_download_files"
-LOG_FILE = "debug_reason.log"
-LOG_LEVER="DEBUG"
+LOG_FILE = "fetch_warning.log"
+LOG_LEVER="WARNING"
 LOG_ENCODING="UTF-8"
 LOG_ENABLED = True
 LOG_STDOUT=True
