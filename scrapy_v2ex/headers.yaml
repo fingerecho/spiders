@@ -1,0 +1,13 @@
+authority: www.v2ex.com
+method: GET
+path: /go/jobs?p=1
+scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+accept-encoding: gzip, deflate, br
+accept-language: zh-CN,zh;q=0.9
+cache-control: no-cache
+cookie: V2EX_REFERRER="2|1:0|10:1559137311|13:V2EX_REFERRER|12:dmVuY2VudA==|4adb8c662db49925a92e3771bdc2671517de1bca6f52cc2814d2e4a0ed6b4ef9"; PB3_SESSION="2|1:0|10:1559137311|11:PB3_SESSION|40:djJleDoxODMuMTcuMTI1LjIxOToxNDAzNzcwNQ==|2d8585eadc90bdfa26be1b8aa267047c15bf48d7d763cd9b7101593e91a36ec7"; V2EX_LANG=zhcn; _ga=GA1.2.2022440465.1559137313; _gid=GA1.2.1095776012.1559137313; A2="2|1:0|10:1559138209|2:A2|48:NTE2YzFlNDYtNDAwNC00ZjZiLTg5ZmMtMmVjYzBjZTgyYTdh|6272a9e1a1f4ecdf604ff6ddc14b88266efcde0e6777b533bb835fff52e72896"; V2EX_TAB="2|1:0|10:1559138573|8:V2EX_TAB|8:dGVjaA==|46222966cbf839c5acb386075a7137ccd0d2355d4b3456a3ae74fdfe74dfe497"
+pragma: no-cache
+referer: https://www.v2ex.com/go/jobs?p=2
+upgrade-insecure-requests: "1"
+user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
